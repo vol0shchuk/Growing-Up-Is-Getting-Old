@@ -1,0 +1,4 @@
+﻿  Growing Up Is Getting Old.cpp
+C:\Users\HP\source\repos\Growing Up Is Getting Old\Growing Up Is Getting Old\Growing Up Is Getting Old.cpp(18,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\source\repos\Growing Up Is Getting Old\Growing Up Is Getting Old\Growing Up Is Getting Old.cpp(77,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Growing Up Is Getting Old.vcxproj -> C:\Users\HP\source\repos\Growing Up Is Getting Old\x64\Debug\Growing Up Is Getting Old.exe
